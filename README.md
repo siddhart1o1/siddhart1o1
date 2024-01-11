@@ -9,8 +9,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhart1o1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=siddhart1o1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
