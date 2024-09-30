@@ -1,5 +1,4 @@
-# 💫 About Me:
-📖Learning <br>🧑‍💻 Software Engineer, AI/ML and Bitcoin enthusiast<br><br>
+
 
 
 ## 🌐 Socials:
